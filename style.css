@@ -1,0 +1,138 @@
+*{
+	margin:auto;
+	padding:auto;
+}
+
+.top{
+	width:100%;
+	background-color:#2FA5EB !important;
+	border-bottom:2px solid #f0f0f0;
+}
+.top div{
+	width:1200px;
+	color:#fff;
+	background-color:#2FA5EB !important;
+	font-family:calibri;
+	padding:10px;
+	text-align:right;
+}
+
+.logo{
+	width:100%;
+	background-color:;
+	border-bottom:2px solid #f0f0f0;
+}
+.logo div{
+	width:1200px;
+	background-color:;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+.logo div table a{
+	padding:10px;
+	text-decoration:none;
+	color:gray;
+}
+.logo div table a:hover{
+	color:#428bca;
+	border-bottom:2px solid gray;
+}
+
+.nav_down{
+	width:100%;
+	background-color:#2FA5EB !important;
+	border-bottom:2px solid #f0f0f0;
+}
+.nav_down div{
+	width:1200px;
+	color:#fff;
+	background-color:#000;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+
+
+
+
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-style: groove;
+height:550px;
+width:400px;
+background-color: lemon;
+top: 50%;
+left:50%;
+border-radius: 10px;
+backdrop-filter:blur(10px);
+border: 2px solid grey;
+box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+padding: 50px, 35px;
+text-align: center;
+}
+.tale {
+  border-style: groove;
+height:400px;
+width:400px;
+background-color: lemon;
+top: 50%;
+left:50%;
+border-radius: 10px;
+backdrop-filter:blur(10px);
+border: 2px solid grey;
+box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+padding: 50px, 35px;
+text-align: center;
+}
+.bob{
+	background-repeat: space;
+}
+.BELLS{
+	background-repeat: space;
+
+}
+.me{
+	background-repeat: space;
+
+}
+.container1{
+border-color:black;
+margin-left: 10px;
+boader:1px solid black;
+}
+.text-center{
+	padding-left: 10PX;
+}
+.log1{
+	margin-left: 50%;
+}
